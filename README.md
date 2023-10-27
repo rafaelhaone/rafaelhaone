@@ -2,7 +2,7 @@
 
   <div align="center">
     <a href="https://www.linkedin.com/in/rafael-haone-245677155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-haone-245677155/" ></a>
-  </div
+  </div> <br>
 
 🎓Estudante de Análise e Desenvolvimento de Sistemas <br>
 🔭Cursando a "Formação React Developer" na <a href="https://www.dio.me//" target="_blank">DIO</a> <br>
@@ -10,7 +10,7 @@
 
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
